@@ -1,7 +1,9 @@
 # LiveLight
-**Author:** *Marek Palounek*
-## Demo site
-Link to site for preview: **[demo]( https://pslib-cz.github.io/2020l4web-campaign-MarekPalounek/)** 
+**Autor:** *Marek Palounek*
+## Demo stránka
+Link na demo stránky: **[LiveLight]( https://pslib-cz.github.io/2020l4web-campaign-MarekPalounek/)** 
 
-## Description
-LiveLight je 
+## Popis
+Jedná se o dlouhodobý projekt tvořený ve 4. ročníku v předmětech MME a WEB. 
+Zde naleznete Landing page pro LiveLight produkt.
+LiveLight se zabývá prodejem a distribucí svítících motýlů, kteé jsou vhodné do domácností jako ambientní osvětlení.
