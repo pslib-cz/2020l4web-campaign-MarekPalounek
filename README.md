@@ -8,4 +8,4 @@ Jedná se o dlouhodobý projekt tvořený ve 4. ročníku v předmětech MME a W
 
 Zde naleznete Landing page pro LiveLight produkt.
 
-LiveLight se zabývá prodejem a distribucí svítících motýlů, kteé jsou vhodné do domácností jako ambientní osvětlení.
+LiveLight se zabývá prodejem a distribucí svítících motýlů, které jsou vhodné do domácností jako ambientní osvětlení.
