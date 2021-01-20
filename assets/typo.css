@@ -46,8 +46,12 @@ p{
     text-align: center;
 }
 
-.arrow a{
-    color: white;
+.buttons{
+    font-size: 1.6em;
+    font-weight: 600;
+
+}
+.buttons a{
     text-decoration: none;
 }
 
