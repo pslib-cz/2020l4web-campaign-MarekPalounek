@@ -2,6 +2,16 @@
 <html lang="en">
 
 <head>
+    <!-- Global site tag (gtag.js) - Google Analytics -->
+    <script async src="https://www.googletagmanager.com/gtag/js?id=G-09Z7ZWC114"></script>
+    <script>
+        window.dataLayer = window.dataLayer || [];
+        function gtag() { dataLayer.push(arguments); }
+        gtag('js', new Date());
+
+        gtag('config', 'G-09Z7ZWC114');
+    </script>
+    
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <link rel="stylesheet" href="./assets/normalize.css">
@@ -68,7 +78,7 @@
             <div>
                 <form class="subscribe">
                     <input type="email" class="email_address_field" name="email" placeholder="Váš e-mail">
-                    <button  class="check"><span class="icon">check</span></button>      
+                    <button class="check"><span class="icon">check</span></button>
                 </form>
             </div>
         </section>
@@ -88,14 +98,17 @@
             <div>
                 <h3>Barva</h3>
                 <ul class="color">
-                    <li><input type="checkbox" id="checkboxFour" value="modrá"><label for="checkboxFour">Modrá</label></li>
-                    <li><input type="checkbox" id="checkboxFive" value="žlutá"><label for="checkboxFive">Žlutá</label></li>
+                    <li><input type="checkbox" id="checkboxFour" value="modrá"><label for="checkboxFour">Modrá</label>
+                    </li>
+                    <li><input type="checkbox" id="checkboxFive" value="žlutá"><label for="checkboxFive">Žlutá</label>
+                    </li>
                 </ul>
             </div>
 
             <div>
                 <ul class="order">
-                    <li><input type="checkbox" id="checkboxSix" value="objednat" checked><label for="checkboxSix">Objednat</label></li>
+                    <li><input type="checkbox" id="checkboxSix" value="objednat" checked><label
+                            for="checkboxSix">Objednat</label></li>
                 </ul>
             </div>
 
